@@ -60,6 +60,8 @@ following.json
 ### 4. Ejecuta el script
 `python analyze.py`
 
+Opcional: puedes exportar los resultados a CSV quitando los comentarios en el script.
+
 ---
 
 # 🇬🇧 English
@@ -122,7 +124,7 @@ following.json
 `python analyze.py`
 
 
-
+Optional: Export results to CSV by uncommenting the CSV section in the script.
 ---
 
 ## Tech used
