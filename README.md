@@ -1,8 +1,8 @@
 # Instagram Follow Analyzer
 
-🇬🇧 English | 🇪🇸 Español
+🇪🇸 Español | 🇬🇧 English
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=1177262908)
+Ejecuta este proyecto al instante en la nube  | Run this project instantly in the cloud:     [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=1177262908)
 
 ---
 
